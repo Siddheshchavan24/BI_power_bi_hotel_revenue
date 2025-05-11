@@ -1,5 +1,3 @@
-# BI_power_bi_hotel_revenue
-
 # Hotel Dashboard - Power BI Report
 
 ## Overview
