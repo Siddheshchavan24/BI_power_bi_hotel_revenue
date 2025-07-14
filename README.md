@@ -15,7 +15,7 @@ This repository contains a Power BI dashboard designed to analyze hotel performa
 - 📋 **Dynamic Filters**: Slicers for filtering by time period, booking status, room type, and more.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](./Screenshot 2024-06-05 130413.png)(https://github.com/Siddheshchavan24/BI_power_bi_hotel_revenue/blob/main/Screenshot%202024-06-05%20130413.png)
+![Dashboard Screenshot](https://github.com/Siddheshchavan24/BI_power_bi_hotel_revenue/blob/main/Screenshot%202024-06-05%20130413.png)
 
 
 ### Prerequisites
