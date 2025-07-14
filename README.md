@@ -14,6 +14,9 @@ This repository contains a Power BI dashboard designed to analyze hotel performa
 - 🧾 **Booking Channels**: Performance by booking sources such as direct, OTA, corporate, etc.
 - 📋 **Dynamic Filters**: Slicers for filtering by time period, booking status, room type, and more.
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](Screenshot 2024-06-05 130413.png)
+
 
 ### Prerequisites
 - Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
